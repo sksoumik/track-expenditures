@@ -22,3 +22,14 @@ html{
     margin-bottom: 50px;
 
 }
+
+/*Project detail stat*/
+
+.section-stats .card-panel {
+    margin: 8px;
+
+}
+.section-stats h1 {
+    font-size: 4vw;
+    margin: 15px 0px;
+}
